@@ -6,14 +6,16 @@ using System.Linq;
 public class GameManager : MonoBehaviour
 {
     SpawnManager spawnManager; // Must be first child
-    Animator archGates;        //  Must be second child
+    Animator archGates;        // Must be second child
+    CountdownUI countdownUI;   // Must be third child
 
     public bool spawn = false;
-    // Start is called before the first frame update
+
     void Start()
     {
         spawnManager = transform.GetChild(0).gameObject.GetComponent<SpawnManager>();
         archGates    = transform.GetChild(1).gameObject.GetComponent<ArchGates>().GetComponent<Animator>();
+        countdownUI  = transform.GetChild(2).gameObject.GetComponent<CountdownUI>();
     }
 
     // Update is called once per frame
@@ -27,8 +29,10 @@ public class GameManager : MonoBehaviour
 
     void startWave()
     {
+        countdownUI.startCountdown();
         spawnManager.spawnEnemies();
         archGates.SetBool("openGates", true);
+        spawn = false;
     }
 
     void endWave()

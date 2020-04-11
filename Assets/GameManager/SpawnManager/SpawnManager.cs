@@ -6,8 +6,9 @@ using System.Linq;
 public class SpawnManager : MonoBehaviour
 {
     public GameObject enemyPrefab;
-    // Start is called before the first frame update
     List<Transform> spawnLocations;
+
+    // Uses empty-GameObjects as spawn locations
 
     void Start()
     {

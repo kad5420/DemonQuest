@@ -5,9 +5,8 @@ using System.Linq;
 
 public class GameManager : MonoBehaviour
 {
-
-    SpawnManager spawnManager;
-    Animator archGates;
+    SpawnManager spawnManager; // Must be first child
+    Animator archGates;        //  Must be second child
 
     public bool spawn = false;
     // Start is called before the first frame update
@@ -39,3 +38,5 @@ public class GameManager : MonoBehaviour
 
 
 }
+
+//  should be some UI that counts down and then the enemies should spawn, the gates open

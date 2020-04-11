@@ -12,13 +12,6 @@ public class SpawnManager : MonoBehaviour
     void Start()
     {
         spawnLocations = transform.Cast<Transform>().ToList();
-        spawnEnemies();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 
     public void spawnEnemies()

@@ -3,7 +3,7 @@ using Fluent;
 
 public class Player : MonoBehaviour 
 {
-    public float MoveSpeed = 2.0f;
+    //public float MoveSpeed = 2.0f;
 
     public bool CanMove = true;
     public static Player Instance;
@@ -27,7 +27,6 @@ public class Player : MonoBehaviour
             FluentManager.Instance.ExecuteClosestAction(gameObject);
         }
 
-        transform.position += new Vector3(-Input.GetAxis("Horizontal") * Time.deltaTime * MoveSpeed, 0, -Input.GetAxis("Vertical") * Time.deltaTime * MoveSpeed);
-	
+        //transform.position += new Vector3(-Input.GetAxis("Horizontal") * Time.deltaTime * MoveSpeed, 0, -Input.GetAxis("Vertical") * Time.deltaTime * MoveSpeed);
 	}
 }

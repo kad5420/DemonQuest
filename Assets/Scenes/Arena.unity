@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 3
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 8185c62f5ccafe247bd3d1a04315857d, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -232,8 +232,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 45344262}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 19.336845, y: 8.251079, z: -22.346077}
-  m_LocalScale: {x: 1, y: 1.5207, z: 1}
+  m_LocalPosition: {x: 19.336845, y: -3.7746, z: -22.346077}
+  m_LocalScale: {x: 1, y: 0.85735744, z: 1}
   m_Children:
   - {fileID: 1212355435}
   - {fileID: 632598407}
@@ -3999,7 +3999,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1859460072
 Transform:
   m_ObjectHideFlags: 0
@@ -4347,7 +4347,7 @@ PrefabInstance:
     - target: {fileID: 7701169359135297657, guid: b72553f31e103cc4fa15adb7dc2bddab,
         type: 3}
       propertyPath: m_Name
-      value: Lava_diffuse
+      value: Lava
       objectReference: {fileID: 0}
     - target: {fileID: 7701169359135297662, guid: b72553f31e103cc4fa15adb7dc2bddab,
         type: 3}
@@ -4441,7 +4441,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2111322114
 Transform:
   m_ObjectHideFlags: 0

@@ -4,32 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Action
-  - AutoCrouch
-  - Ragdoll
-  - Ignore Ragdoll
-  - Boss
-  - Enemy
-  - CompanionAI
-  - Weapon
-  - LookAt
-  - Dirt
-  - Wood
-  - Metal
-  - Concrete
-  - Glass
-  - Water
-  - LadderTrigger
-  - ExitWater
-  - Barrel
-  - FreeClimb
-  - ClimbDirection
-  - Zipline
-  - PlayerUI
-  - Collectable
-  - CoverPoint
-  - Interactable
-  - AIAction
+  - Shootable
   layers:
   - Default
   - TransparentFX
@@ -39,15 +14,15 @@ TagManager:
   - UI
   - 
   - 
-  - Player
-  - Enemy
-  - CompanionAI
-  - Triggers
-  - StopMove
-  - Action
-  - HeadTrack
-  - BodyPart
-  - BlockAIRayCast
+  - Lighting
+  - Ground
+  - Postprocessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -64,6 +39,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

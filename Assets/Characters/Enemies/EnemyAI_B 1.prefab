@@ -1200,7 +1200,7 @@ SphereCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 30
+  m_Radius: 154.35
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &114000011098819092
 MonoBehaviour:
@@ -3996,7 +3996,7 @@ MonoBehaviour:
     m_Bits: 1
   sortTargetFromDistance: 0
   fieldOfView: 95
-  maxDetectDistance: 30
+  maxDetectDistance: 154.35
   minDetectDistance: 3.5
   distanceToLostTarget: 10
   chaseStopDistance: 1

@@ -5,17 +5,15 @@ using System.Linq;
 
 public class SpawnManager : MonoBehaviour
 {
-    public GameObject enemyPrefab;
-    public List<Transform> spawnLocations;
+    public GameObject enemy;
+    public Transform[] spawnLocations;
     public bool spawn;
 
-    // Uses empty-GameObjects as spawn locations
-
-    void Start()
+    public void Start()
     {
-        spawnLocations = transform.Cast<Transform>().ToList();
+        spawnLocations = GetComponentsInChildren<Transform>();
     }
-    
+
     void Update()
     {
         if (spawn)
@@ -28,8 +26,7 @@ public class SpawnManager : MonoBehaviour
     {
         foreach (Transform location in spawnLocations)
         {
-            Debug.Log(location);
-            Instantiate(enemyPrefab, location);
+            Instantiate(enemy, location);
         }
         spawn = false;
     }

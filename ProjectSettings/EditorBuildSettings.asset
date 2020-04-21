@@ -4,4 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 0e5776fb6cccfc84fa174e4b9f335f39
+  - enabled: 1
+    path: Assets/Scenes/PaladinsDen.unity
+    guid: dff8f58174b7c3246991f77453eb7deb
+  - enabled: 1
+    path: Assets/Scenes/Arena.unity
+    guid: 4adbb0648135c7248928d0e110ee58ae
+  m_configObjects: {}

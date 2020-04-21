@@ -14,7 +14,7 @@ public class Dialogue : MonoBehaviour
 
     void OnTriggerEnter()
     {
-        if ((meleeManager.leftWeapon == null) && (meleeManager.rightWeapon == null))
+        if ((meleeManager.leftWeapon == null) || (meleeManager.rightWeapon == null))
         {
             Debug.Log("Starting Dialogue");
             dialogue.SetTrigger("startDialogue");

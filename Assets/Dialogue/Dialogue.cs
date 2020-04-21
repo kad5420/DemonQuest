@@ -6,6 +6,7 @@ public class Dialogue : MonoBehaviour
 {
     // Start is called before the first frame update
     public Animator dialogue;
+    public Invector.vMelee.vMeleeManager meleeManager;
     void Start()
     {
 
@@ -13,8 +14,11 @@ public class Dialogue : MonoBehaviour
 
     void OnTriggerEnter()
     {
-        Debug.Log("Hello world");
-        dialogue.SetBool("startDialogue", true);
+        if ((meleeManager.leftWeapon == null) && (meleeManager.rightWeapon == null))
+        {
+            Debug.Log("Starting Dialogue");
+            dialogue.SetTrigger("startDialogue");
+        }
     }
 
     // Update is called once per frame

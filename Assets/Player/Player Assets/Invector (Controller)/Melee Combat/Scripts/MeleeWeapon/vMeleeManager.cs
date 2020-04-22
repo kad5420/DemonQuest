@@ -4,6 +4,7 @@ using System;
 
 namespace Invector.vMelee
 {
+    using UnityEngine.SceneManagement;
     using vEventSystems;
     public class vMeleeManager : vMonoBehaviour
     {

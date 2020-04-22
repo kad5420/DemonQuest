@@ -5,11 +5,13 @@ using UnityEngine;
 public class AnimatorFunctions : MonoBehaviour
 {
 	[SerializeField] MenuButtonController menuButtonController;
+	public AudioClip menuSound;
 	public bool disableOnce;
 
-	void PlaySound(AudioClip whichSound){
+	void PlaySound()
+	{
 		if(!disableOnce){
-			menuButtonController.audioSource.PlayOneShot (whichSound);
+			menuButtonController.audioSource.PlayOneShot (menuSound);
 		}else{
 			disableOnce = false;
 		}

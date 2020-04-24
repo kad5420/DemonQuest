@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 3
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: 8185c62f5ccafe247bd3d1a04315857d, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 81f714daf7144784b8a2f42f1cd30927, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -13218,7 +13218,37 @@ PrefabInstance:
     - target: {fileID: 3501754156283603273, guid: b156d59269c276a4d9d5ee52d791d29b,
         type: 3}
       propertyPath: airSpeed
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 3501754156283603273, guid: b156d59269c276a4d9d5ee52d791d29b,
+        type: 3}
+      propertyPath: freeSpeed.movementSmooth
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3501754156283603273, guid: b156d59269c276a4d9d5ee52d791d29b,
+        type: 3}
+      propertyPath: freeSpeed.walkSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3501754156283603273, guid: b156d59269c276a4d9d5ee52d791d29b,
+        type: 3}
+      propertyPath: freeSpeed.runningSpeed
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3501754156283603273, guid: b156d59269c276a4d9d5ee52d791d29b,
+        type: 3}
+      propertyPath: freeSpeed.sprintSpeed
       value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3501754156283603273, guid: b156d59269c276a4d9d5ee52d791d29b,
+        type: 3}
+      propertyPath: freeSpeed.crouchSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3501754156283603273, guid: b156d59269c276a4d9d5ee52d791d29b,
+        type: 3}
+      propertyPath: jumpHeight
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 6635883996675189714, guid: b156d59269c276a4d9d5ee52d791d29b,
         type: 3}

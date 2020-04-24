@@ -7,7 +7,9 @@ public class WaveManager : MonoBehaviour
     // Start is called before the first frame update
     SpawnManager spawnManager;
     public bool startWave = false;
-    public int currentWave = 1;
+
+
+    public int currentWave = 1; // max == number of children in spawn prefab
     void Start()
     {
         spawnManager = this.gameObject.transform.GetChild(0).GetComponent<SpawnManager>();
@@ -22,4 +24,7 @@ public class WaveManager : MonoBehaviour
         }
         startWave = false;
     }
+
+
+
 }

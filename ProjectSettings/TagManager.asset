@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Shootable
+  - Enemy
+  - Weapon
+  - Ignore Ragdoll
+  - Action
+  - PlayerUI
   layers:
   - Default
   - TransparentFX
@@ -17,7 +22,7 @@ TagManager:
   - Lighting
   - Ground
   - Postprocessing
-  - 
+  - Player
   - 
   - 
   - 

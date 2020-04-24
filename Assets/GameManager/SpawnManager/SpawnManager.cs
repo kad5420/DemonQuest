@@ -1,33 +1,23 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System.Linq;
 
 public class SpawnManager : MonoBehaviour
 {
-    public GameObject enemy;
-    public Transform[] spawnLocations;
-    public bool spawn;
+    // Start is called before the first frame update
 
-    public void Start()
+    public Spawn[] spawns;
+
+    void Start()
     {
-        spawnLocations = GetComponentsInChildren<Transform>();
+        spawns = GetComponentsInChildren<Spawn>();
     }
 
-    void Update()
+    public void spawnEnemyWave(int wave)
     {
-        if (spawn)
+        foreach (Spawn spawn in spawns)
         {
-            spawnEnemies();
+            spawn.spawnEnemies(wave);
         }
-    }
-
-    public void spawnEnemies()
-    {
-        foreach (Transform location in spawnLocations)
-        {
-            Instantiate(enemy, location);
-        }
-        spawn = false;
     }
 }

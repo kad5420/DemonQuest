@@ -18,7 +18,7 @@ public class WaveManager : MonoBehaviour
 
     public int currentWave = 1;
 
-    public bool startWave = true;
+    public bool startWave = false;
     public float skyboxDark;
     public float skyboxNormal;
 

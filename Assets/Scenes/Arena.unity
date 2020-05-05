@@ -16861,7 +16861,7 @@ MonoBehaviour:
   lightningSounds: {fileID: 8300000, guid: 07908de4704bea749a7b9bc916835759, type: 3}
   playerController: {fileID: 148104120}
   currentWave: 1
-  startWave: 0
+  startWave: 1
   skyboxDark: 0.6
   skyboxNormal: 1.7
 --- !u!4 &1302164856

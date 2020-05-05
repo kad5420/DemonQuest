@@ -14,6 +14,8 @@ public class MenuButtonController : MonoBehaviour {
 	[SerializeField] Animator animator;
 
 	public AudioSource audioSource;
+	public AudioClip selectionSound;
+	public AudioClip closeSound;
 
 	bool isFaded = false;
 	public float fadeDuration = .4f;
@@ -80,12 +82,14 @@ public class MenuButtonController : MonoBehaviour {
         // Play Game
 		if (index == 0)
         {
+			audioSource.PlayOneShot(selectionSound);
 			playGameButtonPressed();
 
 		}
         // Exit Game
         else if (index == 1)
         {
+			audioSource.PlayOneShot(closeSound);
 			Debug.Log("Quitting Game");
 			Application.Quit();
         }

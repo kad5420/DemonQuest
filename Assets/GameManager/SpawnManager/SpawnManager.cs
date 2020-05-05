@@ -1,36 +1,23 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System.Linq;
 
 public class SpawnManager : MonoBehaviour
 {
-    public GameObject enemyPrefab;
-    public List<Transform> spawnLocations;
-    public bool spawn;
+    // Start is called before the first frame update
 
-    // Uses empty-GameObjects as spawn locations
+    public Spawn[] spawns;
 
     void Start()
     {
-        spawnLocations = transform.Cast<Transform>().ToList();
-    }
-    
-    void Update()
-    {
-        if (spawn)
-        {
-            spawnEnemies();
-        }
+        spawns = GetComponentsInChildren<Spawn>();
     }
 
-    public void spawnEnemies()
+    public void spawnEnemyWave(int wave)
     {
-        foreach (Transform location in spawnLocations)
+        foreach (Spawn spawn in spawns)
         {
-            Debug.Log(location);
-            Instantiate(enemyPrefab, location);
+            spawn.spawnEnemies(wave);
         }
-        spawn = false;
     }
 }

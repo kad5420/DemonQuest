@@ -1,6 +1,6 @@
 # ⚔️ Unity3D-DemonQuest
 
-<img width="1230" alt="Screen Shot 2021-05-23 at 5 07 21 PM" src="https://user-images.githubusercontent.com/45678211/119276668-5901db00-bbe9-11eb-9350-6a398f4809eb.png">
+![logo](https://user-images.githubusercontent.com/45678211/119277495-0d9dfb80-bbee-11eb-915a-28f86a5ea62d.gif)
 
 ## About
 

@@ -16,9 +16,9 @@ DemonQuest is a 3rd Person RPG built with Unity 3D.  It features a fully animate
 
 ## 🌋 Lava Arena
 
-![arena_01](https://user-images.githubusercontent.com/45678211/119279292-b7828580-bbf8-11eb-9b23-028d6a258597.png)
-![arena_02](https://user-images.githubusercontent.com/45678211/119279291-b6e9ef00-bbf8-11eb-80d2-b106c43ac906.png)
-![arena_03](https://user-images.githubusercontent.com/45678211/119279290-b6515880-bbf8-11eb-8ad4-5b61797fb768.png)
+![arena_01](https://user-images.githubusercontent.com/45678211/119279541-5cea2900-bbfa-11eb-84e9-017dffa6ca1c.png)
+![arena_02](https://user-images.githubusercontent.com/45678211/119279542-5e1b5600-bbfa-11eb-9607-19c5205ff06a.png)
+![arena_03](https://user-images.githubusercontent.com/45678211/119279543-5eb3ec80-bbfa-11eb-8df0-7729dbd2e37b.png)
 
 * Skeletal Statues
 * Bloom FX
@@ -37,9 +37,9 @@ DemonQuest is a 3rd Person RPG built with Unity 3D.  It features a fully animate
 
 ## 🏰 Paladin's Den
 
-![den_01](https://user-images.githubusercontent.com/45678211/119279289-b5b8c200-bbf8-11eb-832a-1ecae6653a33.png)
-![den_02](https://user-images.githubusercontent.com/45678211/119279287-b4879500-bbf8-11eb-8804-0320595b437b.png)
-![den_03](https://user-images.githubusercontent.com/45678211/119279286-b3eefe80-bbf8-11eb-946c-264e3b089be9.png)
+![den_01](https://user-images.githubusercontent.com/45678211/119279544-5f4c8300-bbfa-11eb-9b83-5fcef2f7ffd8.png)
+![den_02](https://user-images.githubusercontent.com/45678211/119279545-5fe51980-bbfa-11eb-8427-b119bde64456.png)
+![den_03](https://user-images.githubusercontent.com/45678211/119279546-5fe51980-bbfa-11eb-8762-b01968c70d43.png)
 
 * Starting area
 * Paladin's den
@@ -47,9 +47,9 @@ DemonQuest is a 3rd Person RPG built with Unity 3D.  It features a fully animate
 
 ## 🥚 Easter Eggs
 
-![easter_01](https://user-images.githubusercontent.com/45678211/119279285-b3566800-bbf8-11eb-9ef2-b7ed47653c38.png)
-![easter_02](https://user-images.githubusercontent.com/45678211/119279284-b2253b00-bbf8-11eb-987c-1e0a35e46435.png)
-![easter_03](https://user-images.githubusercontent.com/45678211/119279283-b0f40e00-bbf8-11eb-98c6-57cf564c6545.png)
+![easter_01](https://user-images.githubusercontent.com/45678211/119279547-607db000-bbfa-11eb-9592-ebc2be68bcd3.png)
+![easter_02](https://user-images.githubusercontent.com/45678211/119279548-61164680-bbfa-11eb-89e1-393d464eec11.png)
+![easter_03](https://user-images.githubusercontent.com/45678211/119279549-61aedd00-bbfa-11eb-8069-14c050a11f35.png)
 
 * Secret Room (Paladin's Bedroom)
 * Guitar & Amp

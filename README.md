@@ -2,6 +2,11 @@
 
 ![logo](https://user-images.githubusercontent.com/45678211/119277523-3faf5d80-bbee-11eb-8484-05b869a92697.gif)
 
+
+![combat](https://user-images.githubusercontent.com/45678211/119277830-d7617b80-bbef-11eb-8248-6394437c060d.gif)
+![combat1](https://user-images.githubusercontent.com/45678211/119277835-daf50280-bbef-11eb-9bfc-36a6cb692ef2.gif)
+
+
 <img width="1527" alt="easter egg 1" src="https://user-images.githubusercontent.com/45678211/119277659-f57aac00-bbee-11eb-92c3-d943e14e1c44.png">
 <img width="1533" alt="easter egg 2" src="https://user-images.githubusercontent.com/45678211/119277661-fb708d00-bbee-11eb-9232-0fc2c4ea5e29.png">
 <img width="1529" alt="easter egg 0" src="https://user-images.githubusercontent.com/45678211/119277669-01ff0480-bbef-11eb-9492-14bddfa9df1d.png">

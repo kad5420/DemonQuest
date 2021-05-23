@@ -2,7 +2,12 @@
 
 ![logo](https://user-images.githubusercontent.com/45678211/119277523-3faf5d80-bbee-11eb-8484-05b869a92697.gif)
 
-<img width="1530" alt="easter egg" src="https://user-images.githubusercontent.com/45678211/119277611-ae8cb680-bbee-11eb-8b88-ae026c74847d.png">
+<img width="1527" alt="easter egg 1" src="https://user-images.githubusercontent.com/45678211/119277659-f57aac00-bbee-11eb-92c3-d943e14e1c44.png">
+<img width="1533" alt="easter egg 2" src="https://user-images.githubusercontent.com/45678211/119277661-fb708d00-bbee-11eb-9232-0fc2c4ea5e29.png">
+<img width="1529" alt="easter egg 0" src="https://user-images.githubusercontent.com/45678211/119277669-01ff0480-bbef-11eb-9492-14bddfa9df1d.png">
+<img width="1531" alt="paladins 0" src="https://user-images.githubusercontent.com/45678211/119277680-0d523000-bbef-11eb-9537-7dc14eb88b7e.png">
+<img width="1526" alt="paladins 1" src="https://user-images.githubusercontent.com/45678211/119277690-15aa6b00-bbef-11eb-8913-1e5ee5c2c1a7.png">
+<img width="1530" alt="are" src="https://user-images.githubusercontent.com/45678211/119277694-1cd17900-bbef-11eb-8e31-8a9dc3fb3031.png">
 <img width="958" alt="Screen Shot 2021-05-23 at 5 45 13 PM" src="https://user-images.githubusercontent.com/45678211/119277640-d11ecf80-bbee-11eb-8581-2130264aafc0.png">
 <img width="1530" alt="easter egg" src="https://user-images.githubusercontent.com/45678211/119277642-d24ffc80-bbee-11eb-8950-af35cb07be2a.png">
 <img width="1527" alt="albums" src="https://user-images.githubusercontent.com/45678211/119277644-d714b080-bbee-11eb-942f-a7ee04c4866b.png">

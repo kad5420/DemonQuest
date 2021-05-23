@@ -1,7 +1,5 @@
 # ⚔️ Unity3D-DemonQuest
 
-![banner](https://user-images.githubusercontent.com/45678211/119279599-b4889480-bbfa-11eb-8dd2-c63c2d91c33c.png)
-
 ## About
 
 DemonQuest is a 3rd Person RPG built with Unity 3D.  It features a fully animated arena, working combat, hd shading effects, and a few easter eggs ;)

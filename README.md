@@ -2,6 +2,12 @@
 
 ![logo](https://user-images.githubusercontent.com/45678211/119277523-3faf5d80-bbee-11eb-8484-05b869a92697.gif)
 
+<img width="1530" alt="easter egg" src="https://user-images.githubusercontent.com/45678211/119277611-ae8cb680-bbee-11eb-8b88-ae026c74847d.png">
+<img width="958" alt="Screen Shot 2021-05-23 at 5 45 13 PM" src="https://user-images.githubusercontent.com/45678211/119277640-d11ecf80-bbee-11eb-8581-2130264aafc0.png">
+<img width="1530" alt="easter egg" src="https://user-images.githubusercontent.com/45678211/119277642-d24ffc80-bbee-11eb-8950-af35cb07be2a.png">
+<img width="1527" alt="albums" src="https://user-images.githubusercontent.com/45678211/119277644-d714b080-bbee-11eb-942f-a7ee04c4866b.png">
+![Uploading easter egg 1.png…]()
+
 ## About
 
 DemonQuest is a 3rd Person RPG built with Unity 3D.  It features a fully animated arena with combat mechanics, advanced shading, and even some easter eggs. The logo was animated with Adobe After Effects.

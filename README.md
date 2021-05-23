@@ -53,8 +53,8 @@ DemonQuest is a 3rd Person RPG built with Unity 3D.  It features a fully animate
 * Guitar & Amp
 * Personal albums
 
-![hob](https://user-images.githubusercontent.com/45678211/119280088-bacc4000-bbfd-11eb-8b4c-204fb7027e96.png)
-![sec](https://user-images.githubusercontent.com/45678211/119280090-bb64d680-bbfd-11eb-9089-cfc1a8cf280e.png)
-![junt](https://user-images.githubusercontent.com/45678211/119280091-bb64d680-bbfd-11eb-98d0-8088605332ca.png)
-![null](https://user-images.githubusercontent.com/45678211/119280093-bbfd6d00-bbfd-11eb-94ed-888b3bd9663b.png)
-![des](https://user-images.githubusercontent.com/45678211/119280094-bbfd6d00-bbfd-11eb-9d47-ae6957f5b4ce.png)
+![hob](https://user-images.githubusercontent.com/45678211/119280146-01ba3580-bbfe-11eb-8afc-16740b94bf34.png)
+![sec](https://user-images.githubusercontent.com/45678211/119280147-0252cc00-bbfe-11eb-9d0f-1bd69b0802e1.png)
+![junt](https://user-images.githubusercontent.com/45678211/119280148-0252cc00-bbfe-11eb-809e-ddc6c38e0be2.png)
+![null](https://user-images.githubusercontent.com/45678211/119280149-02eb6280-bbfe-11eb-86f5-7819793c5dd2.png)
+![des](https://user-images.githubusercontent.com/45678211/119280150-02eb6280-bbfe-11eb-803b-d5456b5a370b.png)

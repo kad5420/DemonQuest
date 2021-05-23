@@ -3,6 +3,8 @@
 ![logo](https://user-images.githubusercontent.com/45678211/119277523-3faf5d80-bbee-11eb-8484-05b869a92697.gif)
 
 
+![combat](https://user-images.githubusercontent.com/45678211/119277830-d7617b80-bbef-11eb-8248-6394437c060d.gif)
+
 ![combat1](https://user-images.githubusercontent.com/45678211/119277835-daf50280-bbef-11eb-9bfc-36a6cb692ef2.gif)
 
 

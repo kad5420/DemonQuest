@@ -62,4 +62,5 @@ DemonQuest is a 3rd Person RPG built with Unity 3D.  It features a fully animate
 ![secretion](https://user-images.githubusercontent.com/45678211/119280909-79d62a80-bc01-11eb-972b-783d60287818.png)
 ![junt](https://user-images.githubusercontent.com/45678211/119280904-793d9400-bc01-11eb-8be4-4748865ea3d9.png)
 
-All of the featured albums were created by friends or myself.  From left to right ~ Desekrator, Null, Horns of Baphomet, Lover, Secretion, Junt.
+All of the featured albums were created by friends or myself.
+~ Desekrator, Null, Horns of Baphomet, Lover, Secretion, Junt.

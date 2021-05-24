@@ -56,7 +56,6 @@ DemonQuest is a 3rd Person RPG built with Unity 3D.  It features a fully animate
 ![desekrator](https://user-images.githubusercontent.com/45678211/119280911-7a6ec100-bc01-11eb-9384-283b9e1fa738.png)
 ![loasf](https://user-images.githubusercontent.com/45678211/119280910-7a6ec100-bc01-11eb-9e42-4f86159174c3.png)
 ![hob](https://user-images.githubusercontent.com/45678211/119280908-79d62a80-bc01-11eb-8eed-9b1d33598676.png)
-
 ![lover](https://user-images.githubusercontent.com/45678211/119280907-79d62a80-bc01-11eb-804c-0e7090b9d577.png)
 ![secretion](https://user-images.githubusercontent.com/45678211/119280909-79d62a80-bc01-11eb-972b-783d60287818.png)
 ![junt](https://user-images.githubusercontent.com/45678211/119280904-793d9400-bc01-11eb-8be4-4748865ea3d9.png)
